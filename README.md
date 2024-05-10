@@ -1,2 +1,3 @@
 # PRODIGY_DS_02
 ### Problem Statement - Perform data cleaning and exploratory data analysis on a dataset such as titanic dataset from Kaggle. Explore the relationships between variables and identify patterns and trends in the data.
+#### This dataset is a titanic dataset with 891 rows and 12 columns including the following information passengerID, Survivor, Pclass, Age, SibSp, Parch, Fare, Cabin and Embarked.Performed some EDA on the data, including removing unnecessary columns, changing the needed columns datatypes, and looking for null values. Plotting the appropriate graphs allowed us to analyze the connections between the variables.
